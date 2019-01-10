@@ -2,7 +2,7 @@
   display: none;
 }
 body {
-  background-color: blue;
+  /* background-color: blue; */
   text-align: center;
   padding-top: 100px;
   color: white;
@@ -12,7 +12,7 @@ body {
   color: rgb(34, 30, 30);
   font-style: italic;
 }
-/* label { */
+label {
   color: rgb(34, 30, 30);
   font-style: italic;
 }
