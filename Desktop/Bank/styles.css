@@ -1,0 +1,40 @@
+body {
+  background-image: url("https://static-news.moneycontrol.com/static-mcnews/2017/11/12-1.jpg");
+  background-size: cover;
+}
+
+.container {
+  margin-top: 5%;
+  border: 2px solid green;
+  box-shadow: 4px 4px 4px solid yellow;
+  background-color: skyblue;
+  width: 30%;
+}
+h1 {
+  text-align: center;
+  color: rgb(80, 71, 207);
+  text-shadow: 4px 4px 4px red;
+}
+h3 {
+  color: blueviolet;
+}
+input {
+  width: 20%;
+}
+button {
+  margin-left: 450px;
+  box-align: center;
+}
+#initForm {
+  display: none;
+}
+#depForm,
+#withdForm,
+#VavaForm {
+  display: none;
+}
+#homa {
+  margin-left: 35%;
+  margin-top: 10px;
+  width: 20%;
+}
